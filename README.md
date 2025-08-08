@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋, I'm Jubayer!
+## 🚀 Passionate about AI, Web Dev, NLP and LLM
+- 🔭 I’m currently working on AI & ML projects
+- 🌱 I’m learning Web Development and JavaScript
+- 🤖 I love to solve real-life problems using code
+- 📫 How to reach me: ahmedmjubayer589@gmail.com
+
 
 <!--
 **Jubayer-75/Jubayer-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
