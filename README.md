@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jubayer!
 ## 🚀 Passionate about AI, Web Dev, NLP and LLM
 - 🔭 I’m currently working on AI & ML projects
-- 🌱 I’m learning Web Development (node.js)
+- 🌱 I’m learning Web Development (node.js for backend)
 - 🤖 I love to solve real-life problems using code
 - 📫 How to reach me: ahmedmjubayer589@gmail.com
 
